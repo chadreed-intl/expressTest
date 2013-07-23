@@ -1,8 +1,9 @@
 {
-   "name": "demo1",
-   "description": "First Express app",
+   "name": "blog",
+   "description": "Blog with express",
    "version": "0.0.1",
    "dependencies": {
-      "express": "3.x"
+      "express": "3.x",
+      "hbs":"*"
    }
 }
